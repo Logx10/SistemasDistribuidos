@@ -1,0 +1,207 @@
+Execucao do main da classe Deposito terminada
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Consumidor 1 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 1 | itens no deposito: 1
+Produtor colocou a caixa 2 | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 3 | itens no deposito: 1
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 4 | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 5 | itens no deposito: 1
+Produtor colocou a caixa 6 | itens no deposito: 2
+Consumidor 4 retirou uma caixa | itens no deposito: 1
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 7 | itens no deposito: 1
+Produtor colocou a caixa 8 | itens no deposito: 2
+Consumidor 4 retirou uma caixa | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 9 | itens no deposito: 1
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 10 | itens no deposito: 1
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 11 | itens no deposito: 1
+Produtor colocou a caixa 12 | itens no deposito: 2
+Consumidor 4 retirou uma caixa | itens no deposito: 1
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 13 | itens no deposito: 1
+Produtor colocou a caixa 14 | itens no deposito: 2
+Consumidor 4 retirou uma caixa | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 15 | itens no deposito: 1
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 16 | itens no deposito: 1
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 17 | itens no deposito: 1
+Produtor colocou a caixa 18 | itens no deposito: 2
+Consumidor 3 retirou uma caixa | itens no deposito: 1
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 19 | itens no deposito: 1
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 20 | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 21 | itens no deposito: 1
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 22 | itens no deposito: 1
+Produtor colocou a caixa 23 | itens no deposito: 2
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 3 retirou uma caixa | itens no deposito: 1
+Consumidor 1 retirou uma caixa | itens no deposito: 0
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 24 | itens no deposito: 1
+Produtor colocou a caixa 25 | itens no deposito: 2
+Consumidor 4 retirou uma caixa | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 26 | itens no deposito: 1
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 27 | itens no deposito: 1
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 28 | itens no deposito: 1
+Produtor colocou a caixa 29 | itens no deposito: 2
+Consumidor 1 retirou uma caixa | itens no deposito: 1
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 30 | itens no deposito: 1
+Produtor colocou a caixa 31 | itens no deposito: 2
+Consumidor 4 retirou uma caixa | itens no deposito: 1
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 32 | itens no deposito: 1
+Consumidor 1 retirou uma caixa | itens no deposito: 0
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 33 | itens no deposito: 1
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 34 | itens no deposito: 1
+Produtor colocou a caixa 35 | itens no deposito: 2
+Consumidor 1 retirou uma caixa | itens no deposito: 1
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Consumidor 4 NAO conseguiu retirar: deposito vazio
+Consumidor 2 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 36 | itens no deposito: 1
+Produtor colocou a caixa 37 | itens no deposito: 2
+Consumidor 2 retirou uma caixa | itens no deposito: 0
+Consumidor 4 retirou uma caixa | itens no deposito: 0
+Consumidor 1 NAO conseguiu retirar: deposito vazio
+Produtor colocou a caixa 38 | itens no deposito: 1
+Consumidor 3 NAO conseguiu retirar: deposito vazio
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 39 | itens no deposito: 1
+Consumidor 2 terminou: consumiu 9 de 20 caixas
+Consumidor 4 terminou: consumiu 13 de 20 caixas
+Produtor colocou a caixa 40 | itens no deposito: 2
+Consumidor 1 retirou uma caixa | itens no deposito: 1
+Consumidor 5 NAO conseguiu retirar: deposito vazio
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 41 | itens no deposito: 1
+Produtor colocou a caixa 42 | itens no deposito: 2
+Produtor colocou a caixa 43 | itens no deposito: 3
+Consumidor 1 retirou uma caixa | itens no deposito: 2
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 44 | itens no deposito: 1
+Produtor colocou a caixa 45 | itens no deposito: 2
+Produtor colocou a caixa 46 | itens no deposito: 3
+Consumidor 1 retirou uma caixa | itens no deposito: 2
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 47 | itens no deposito: 1
+Produtor colocou a caixa 48 | itens no deposito: 2
+Produtor colocou a caixa 49 | itens no deposito: 3
+Consumidor 1 retirou uma caixa | itens no deposito: 2
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 50 | itens no deposito: 1
+Produtor colocou a caixa 51 | itens no deposito: 2
+Produtor colocou a caixa 52 | itens no deposito: 3
+Consumidor 1 retirou uma caixa | itens no deposito: 2
+Consumidor 5 retirou uma caixa | itens no deposito: 0
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 53 | itens no deposito: 1
+Produtor colocou a caixa 54 | itens no deposito: 2
+Consumidor 1 retirou uma caixa | itens no deposito: 1
+Produtor colocou a caixa 55 | itens no deposito: 2
+Consumidor 5 retirou uma caixa | itens no deposito: 1
+Consumidor 3 retirou uma caixa | itens no deposito: 0
+Produtor colocou a caixa 56 | itens no deposito: 1
+Produtor colocou a caixa 57 | itens no deposito: 2
+Consumidor 1 terminou: consumiu 11 de 20 caixas
+Consumidor 3 terminou: consumiu 13 de 20 caixas
+Consumidor 5 terminou: consumiu 9 de 20 caixas
+Produtor colocou a caixa 58 | itens no deposito: 3
+Produtor colocou a caixa 59 | itens no deposito: 4
+Produtor colocou a caixa 60 | itens no deposito: 5
+Produtor colocou a caixa 61 | itens no deposito: 6
+Produtor colocou a caixa 62 | itens no deposito: 7
+Produtor colocou a caixa 63 | itens no deposito: 8
+Produtor colocou a caixa 64 | itens no deposito: 9
+Produtor colocou a caixa 65 | itens no deposito: 10
+Produtor colocou a caixa 66 | itens no deposito: 11
+Produtor colocou a caixa 67 | itens no deposito: 12
+Produtor colocou a caixa 68 | itens no deposito: 13
+Produtor colocou a caixa 69 | itens no deposito: 14
+Produtor colocou a caixa 70 | itens no deposito: 15
+Produtor colocou a caixa 71 | itens no deposito: 16
+Produtor colocou a caixa 72 | itens no deposito: 17
+Produtor colocou a caixa 73 | itens no deposito: 18
+Produtor colocou a caixa 74 | itens no deposito: 19
+Produtor colocou a caixa 75 | itens no deposito: 20
+Produtor colocou a caixa 76 | itens no deposito: 21
+Produtor colocou a caixa 77 | itens no deposito: 22
+Produtor colocou a caixa 78 | itens no deposito: 23
+Produtor colocou a caixa 79 | itens no deposito: 24
+Produtor colocou a caixa 80 | itens no deposito: 25
+Produtor colocou a caixa 81 | itens no deposito: 26
+Produtor colocou a caixa 82 | itens no deposito: 27
+Produtor colocou a caixa 83 | itens no deposito: 28
+Produtor colocou a caixa 84 | itens no deposito: 29
+Produtor colocou a caixa 85 | itens no deposito: 30
+Produtor colocou a caixa 86 | itens no deposito: 31
+Produtor colocou a caixa 87 | itens no deposito: 32
+Produtor colocou a caixa 88 | itens no deposito: 33
+Produtor colocou a caixa 89 | itens no deposito: 34
+Produtor colocou a caixa 90 | itens no deposito: 35
+Produtor colocou a caixa 91 | itens no deposito: 36
+Produtor colocou a caixa 92 | itens no deposito: 37
+Produtor colocou a caixa 93 | itens no deposito: 38
+Produtor colocou a caixa 94 | itens no deposito: 39
+Produtor colocou a caixa 95 | itens no deposito: 40
+Produtor colocou a caixa 96 | itens no deposito: 41
+Produtor colocou a caixa 97 | itens no deposito: 42
+Produtor colocou a caixa 98 | itens no deposito: 43
+Produtor colocou a caixa 99 | itens no deposito: 44
+Produtor colocou a caixa 100 | itens no deposito: 45
+Produtor terminou: produziu 100 caixas
